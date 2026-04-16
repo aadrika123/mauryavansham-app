@@ -1,0 +1,4 @@
+export const ADMIN_ROLE_ID = '666f1c3f0ef4c00a74ecb544';
+export const STUDENT_ROLE_ID = '6671be094a04345837f1f604';
+export const FACULTY_ROLE_ID = '66cf614901e18cdad36110b6';
+export const SUPER_ADMIN_ROLE_ID = '6671bdf84a04345837f1f601';
