@@ -1,4 +1,4 @@
-package com.mauryavansham
+package com.mvsham
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
